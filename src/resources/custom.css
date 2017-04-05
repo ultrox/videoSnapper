@@ -1,0 +1,32 @@
+#cont {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+.react-player {
+	position: relative;
+	top: 0;
+	left:0;
+}
+
+.croppr-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+div.croppr-overlay {
+	background: rgba(0,0,0,0.0);
+} 
+/* img { */
+/* 	border: 1px solid green; */
+/* 	min-width: 22px; */
+/* 	min-height: 22px; */
+/* } */
+.fixed {
+	width: 13em;
+}
+
+.play {
+	width: 63.7px;
+}
